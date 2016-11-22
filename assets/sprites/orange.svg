@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="182.07" width="300.62" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4">
+  <linearGradient id="linearGradient4171" y2="97.263" gradientUnits="userSpaceOnUse" x2="111.11" y1="97.263" x1="45.967">
+   <stop id="stop3876" stop-color="#e27a35" offset="0"/>
+   <stop id="stop3884" stop-color="#da6a1f" offset="0.4065"/>
+   <stop id="stop3878" stop-color="#edac80" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-159.39816,-60.641461)">
+  <g id="g4127">
+   <path id="path4088" stroke-linejoin="miter" d="m273.25,199.54,2.2728-35.355" stroke="#000" stroke-linecap="butt" stroke-width="1px" fill="none"/>
+   <path id="path3888" d="m75.888,173.4-8.4881,0.60746,3.718-7.6546z" transform="matrix(0.82723291,-0.03666585,0.03666585,0.82723291,210.2016,27.443845)" stroke="#000" fill="#da6c21"/>
+   <path id="path3872" d="m110.61,97.263c0,24.547-14.359,44.447-32.072,44.447s-32.072-19.899-32.072-44.447c0-24.547,14.359-44.447,32.072-44.447s32.072,19.899,32.072,44.447z" transform="matrix(0.96243201,-0.11784954,0.11322022,0.92462616,183.92551,42.383204)" stroke="#000" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1" fill="url(#linearGradient4171)"/>
+   <path id="path3886" d="m274.76,102.57c0,5.1605-2.1482,9.3439-4.7982,9.3439s-4.7982-4.1834-4.7982-9.3439,2.1482-9.3439,4.7982-9.3439,4.7982,4.1834,4.7982,9.3439z" transform="matrix(0.93177287,-0.36304175,0.36304175,0.93177287,-6.73242,105.08112)" fill="#FFF"/>
+   <path id="path3970-3-1-6" d="m444.93,241.23c-1.972-0.0562-3.5371-2.2732-3.4957-4.9519,0.0389-2.5212,1.4935-4.5815,3.3463-4.7399" transform="matrix(0.85280689,0.21884478,-0.24350196,0.94889238,-49.592491,-117.54471)" stroke="#000" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1" fill="#923f1c"/>
+  </g>
+ </g>
+</svg>

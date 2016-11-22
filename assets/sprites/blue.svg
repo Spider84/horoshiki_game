@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="182.07" width="300.62" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4">
+  <linearGradient id="linearGradient4167" y2="114.15" gradientUnits="userSpaceOnUse" x2="232.86" y1="114.15" x1="174.29">
+   <stop id="stop3781" stop-color="#0017fe" offset="0"/>
+   <stop id="stop3793" stop-color="#638cea" offset="0.8374"/>
+   <stop id="stop3783" stop-color="#8baaef" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(-159.39816,-60.641461)">
+  <g id="g4115">
+   <path id="path4090" stroke-linejoin="miter" d="m221.98,190.2-30.305-40.406" stroke="#000" stroke-linecap="butt" stroke-width="1px" fill="none"/>
+   <path id="path3809" d="m134.82,191.83-17.342-0.34478,8.9696-14.846z" transform="matrix(0.41718493,0,0,0.36992566,139.20699,82.895024)" stroke="#000" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="2.54553151" fill="#2c6d94"/>
+   <path id="path3009" d="m232.86,114.15c0,23.867-13.112,43.214-29.286,43.214s-29.286-19.348-29.286-43.214c0-23.867,13.112-43.214,29.286-43.214s29.286,19.348,29.286,43.214z" transform="matrix(1.1170219,0,0,1.0244458,-34.747932,-11.491318)" stroke="#000" fill="url(#linearGradient4167)"/>
+   <path id="path3803" d="m135.71,90.219c0,5.9173-2.5584,10.714-5.7143,10.714s-5.7143-4.797-5.7143-10.714c0-5.9173,2.5584-10.714,5.7143-10.714s5.7143,4.797,5.7143,10.714z" transform="matrix(0.94239817,-0.33449318,0.33449318,0.94239817,53.657068,41.765738)" fill="#FFF"/>
+   <path id="path3970-3-1" d="m444.93,241.23c-1.972-0.0562-3.5371-2.2732-3.4957-4.9519,0.0389-2.5212,1.4935-4.5815,3.3463-4.7399" transform="matrix(0.80794634,0.2073328,-0.23069293,0.89897741,-83.939391,-110.21169)" stroke="#000" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1" fill="#923f1c"/>
+  </g>
+ </g>
+</svg>
